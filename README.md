@@ -23,7 +23,7 @@ Chào mừng bạn đến với dự án **Trình Thu Thập Dữ Liệu VNExpre
    - Để bắt đầu, bạn cần sao chép (clone) dự án từ GitHub về máy tính của mình. Chạy lệnh sau trong terminal hoặc CMD:
 
      ```bash
-     git clone https://github.com/tennguoidung/thu_thap_vnexpress.git
+     git clone (https://github.com/HuynhTinh0333692608/BaiTapLonWebTinTuc.git)
      ```
 
    Thay `tennguoidung` bằng **tên tài khoản GitHub** của bạn.
@@ -32,7 +32,7 @@ Chào mừng bạn đến với dự án **Trình Thu Thập Dữ Liệu VNExpre
    - Sau khi clone xong, bạn cần di chuyển vào thư mục chứa dự án:
 
      ```bash
-     cd thu_thap_vnexpress
+     cd BaiTapLonWebTinTuc
      ```
 
 ---
